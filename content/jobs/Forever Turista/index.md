@@ -1,5 +1,5 @@
 ---
-date: '20-04-2024'
+date: '01-01-2022'
 title: 'Content creator & Product designer'
 company: 'Self-employment'
 location: 'Remote, Worldwide'
