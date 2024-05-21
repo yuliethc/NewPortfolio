@@ -53,17 +53,17 @@ const GlobalStyle = createGlobalStyle`
   /* Scrollbar Styles */
   html {
     scrollbar-width: thin;
-    scrollbar-color: var(--dark-slate) var(--navy);
+    scrollbar-color: var(--dark-slate) var( --dark-purple);
   }
   ::-webkit-scrollbar {
     width: 12px;
   }
   ::-webkit-scrollbar-track {
-    background: var(--navy);
+    background: var(--dark-purple);
   }
   ::-webkit-scrollbar-thumb {
     background-color: var(--dark-slate);
-    border: 3px solid var(--navy);
+    border: 3px solid var(--dark-purple);
     border-radius: 10px;
   }
 
@@ -373,7 +373,7 @@ const GlobalStyle = createGlobalStyle`
     &:hover,
     &:focus {
       background-color: var(--pink);
-      color: var(--navy);
+      color: var(--dark-purple);
       top: 0;
       left: 0;
       width: auto;
