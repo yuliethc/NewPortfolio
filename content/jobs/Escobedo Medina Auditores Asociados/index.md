@@ -1,16 +1,19 @@
 ---
-date: '21-05-2024'
-title: 'Junior Software Developer'
-company: 'GAVA'
-location: 'Milano, Italy'
-range: 'September 2023 - Present'
-url: 'https://www.gavagroup.com/'
+date: '21-07-2020'
+title: 'Full-Stack Developer'
+company: 'Escobedo Medina Auditores Asociados'
+location: 'Cajamarca, Peru'
+range: 'Febrero 2019 - Julio 2020'
+url: 'https://www.mifacturaperu.com/'
 ---
 
-- Writing code within the GeneXus framework, designing and developing solutions.
-- Help to solve complex problems and provide efficient solutions
-- Effective communication and collaboration with other team members
-- Creating rapid and effective prototypes using GeneXus.
-- Designing data models, including defining database structures and relationships.
-- Writing queries using GeneXus-specific syntax.
-- Utilizing GeneXus’s built-in debugging tools to identify, explore, and resolve errors within the development environment.
+
+At Escobedo Medina Auditores Asociados, I had the opportunity to contribute my skills and expertise to the development of various projects. During my time there, I acquired solid foundation as a Fullstack Developer, equipped with the ability to tackle complex challenges and deliver innovative software solutions. I played a key role in the following responsibilities:
+
+- Web-based ERP Development
+
+- Desktop App Enhancement
+
+- Deep understanding of both front-end and back-end technologies: React JS, Node.js/Express, VB .NET, MySQL, and UI/UX design.
+
+- Team working, collaboration and effective communication.
