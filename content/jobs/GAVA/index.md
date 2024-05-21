@@ -1,5 +1,5 @@
 ---
-date: '21-07-2020'
+date: '21-07-2024'
 title: 'Full-Stack Developer'
 company: 'Escobedo Medina Auditores Asociados'
 location: 'Cajamarca, Peru'
