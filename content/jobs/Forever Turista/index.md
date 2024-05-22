@@ -1,7 +1,7 @@
 ---
 date: '01-01-2022'
-title: 'Content creator & Product designer'
-company: 'Self-employment'
+title: 'CEO'
+company: 'Forever Turista'
 location: 'Remote, Worldwide'
 range: 'January 2022 - Present'
 url: 'https://www.foreverturista.com/'
