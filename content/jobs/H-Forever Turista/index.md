@@ -3,7 +3,7 @@ date: '01-01-2022'
 title: 'CEO'
 company: 'Forever Turista'
 location: 'Remote, Worldwide'
-range: 'January 2022 - Present'
+range: '2022 - Present'
 url: 'https://www.foreverturista.com/'
 ---
 
