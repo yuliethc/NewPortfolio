@@ -1,5 +1,5 @@
 ---
-date: '01-01-2022'
+date: '01-09-2023'
 title: 'CEO'
 company: 'Forever Turista'
 location: 'Remote, Worldwide'

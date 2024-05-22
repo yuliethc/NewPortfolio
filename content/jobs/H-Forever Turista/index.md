@@ -1,5 +1,5 @@
 ---
-date: '01-09-2023'
+date: '01-01-2022'
 title: 'Junior Software Developer'
 company: 'GAVA'
 location: 'Milano, Italy'
