@@ -1,16 +1,19 @@
 ---
-date: '01-09-2023'
-title: 'Junior Software Developer'
-company: 'GAVA'
-location: 'Milano, Italy'
-range: 'September 2023 - Present'
-url: 'https://www.gavagroup.com/'
+date: '01-01-2022'
+title: 'CEO'
+company: 'Forever Turista'
+location: 'Remote, Worldwide'
+range: '2022 - Present'
+url: 'https://www.foreverturista.com/'
 ---
 
-- Writing code within the GeneXus framework, designing and developing solutions.
-- Help to solve complex problems and provide efficient solutions
-- Effective communication and collaboration with other team members
-- Creating rapid and effective prototypes using GeneXus.
-- Designing data models, including defining database structures and relationships.
-- Writing queries using GeneXus-specific syntax.
-- Utilizing GeneXus’s built-in debugging tools to identify, explore, and resolve errors within the development environment.
+
+- Product design: Bringing travel-inspired ideas to life through innovative and visually appealing designs.
+
+- Video shooting and editing: Creating engaging videos that showcase unique travel experiences and captivating destinations.
+
+- Architectural, landscape, and food photography: Capturing stunning visuals that evoke the essence and beauty of different locations, architecture, and culinary delights.
+
+- Writing and copywriting: Crafting compelling written content to accompany visuals, effectively communicating travel narratives and experiences.
+
+- Social media management: Strategically planning, curating, and posting content across various social media platforms, building a strong online presence and engaging with the audience.
