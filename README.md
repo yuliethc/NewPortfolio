@@ -1,5 +1,5 @@
 ## Working on my new web portfolio desing
 
- 🚨 I forked it from: [brittanychiang.com](https://brittanychiang.com). 
+ 🚨 Editing the one I forked it from: [brittanychiang.com](https://brittanychiang.com). 
 
 
