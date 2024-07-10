@@ -67,13 +67,14 @@ const Head = ({ title, description, image }) => {
 export default Head;
 
 Head.propTypes = {
-  title: PropTypes.string,
+  title: 'Yulieth Lubo',
+  //title: PropTypes.string,
   description: PropTypes.string,
   image: PropTypes.string,
 };
 
 Head.defaultProps = {
-  title: null,
+  title: 'Yulieth Lubo',
   description: null,
   image: null,
 };
