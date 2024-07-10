@@ -61,11 +61,11 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Yulieth Lubo.</h2>;
-  const three = <h3 className="big-heading">I build things for the internet.</h3>;
+  const three = <h3 className="big-heading">I create things for the internet.</h3>;
   const four = (
     <>
       <p>
-        I’m a software developer specializing in building (and occasionally designing) exceptional
+        I’m a software developer specializing in creating (and occasionally designing)
         digital experiences. Currently, I’m focused on building, human-centered products
         at{' '}
         <a href="https://www.gavagroup.com/" target="_blank" rel="noreferrer">
