@@ -106,7 +106,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/yuliethc/NewPortfolio">
-          <div>Copyright (c) 2024 Yulieth Lubo</div>
+          <div>Copyright &copy; 2024 Yulieth Lubo</div>
         </a>
       </StyledCredit>
     </StyledFooter>
