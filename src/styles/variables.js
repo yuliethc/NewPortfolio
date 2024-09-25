@@ -14,9 +14,9 @@ const variables = css`
     --white: #e6f1ff;
     --green: #64ffda;
     --green-tint: rgba(100, 255, 218, 0.1);
-    --pink: #b64d6d;
+    --pink: #ff81a7;
     --blue: #57cbff;
-    --dark-purple: --lightest-slate;
+    --dark-purple: rgb(30 21 47);
     --white: #ffffff;
 
     --font-sans: 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', -apple-system, system-ui,
