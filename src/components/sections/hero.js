@@ -64,15 +64,6 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the internet.</h3>;
   const four = (
     <>
-       /* <p>
-        I’m a software developer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building, human-centered products
-        
-       at{' '} <a href="https://www.gavagroup.com/" target="_blank" rel="noreferrer">
-          GAVA
-        </a>
-        .
-      </p>*/
       <p>
         I’m a software developer specializing in building (and occasionally designing) exceptional
         digital experiences. Currently, I’m focused on building, human-centered products.
