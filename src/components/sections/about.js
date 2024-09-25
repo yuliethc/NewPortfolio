@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['MySQL','JavaScript','Genexus','React','Python','Generative AI','Claude','ChatGPT','Copilot','Midjourney','Adobe Suite','Canva'];
+  const skills = ['MySQL','JavaScript','Genexus','React','Visual Basic .NET','HTML & CSS','Python','Generative AI','Claude','ChatGPT','Copilot','Midjourney','Adobe Suite','Canva'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Yulieth and I enjoy creating things that live on the internet. I'm a software developer with 3+ years of experience, other of my interests goes from to social media, design to photography, I just love create and make things work. 
+              Hello! My name is Yulieth and I enjoy creating things that live on the internet. I'm a software developer with 3+ years of experience, I just love create and make things work. 
               
               I also speak Spanish, English and Italian and I can teach everything I learn, I am a qualified professional teacher.
             </p>
