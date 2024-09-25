@@ -67,10 +67,10 @@ const Hero = () => {
       <p>
         I’m a software developer specializing in building (and occasionally designing) exceptional
         digital experiences. Currently, I’m focused on building, human-centered products
-        at{' '}
-        <a href="https://www.gavagroup.com/" target="_blank" rel="noreferrer">
+        
+        /* at{' '} <a href="https://www.gavagroup.com/" target="_blank" rel="noreferrer">
           GAVA
-        </a>
+        </a>*/
         .
       </p>
     </>
