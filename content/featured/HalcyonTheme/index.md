@@ -1,15 +1,16 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Mi factura Perú'
+cover: './mifactura.jpg'
+github: 'Private repo'
+external: 'https://mifacturaperu.com/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - React JS
+  - Node.js/Express
+  - MySQL
+  - Bootstrap
+  - Adobe XD
+  - Photoshop
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A web-based ERP system integrated to an electronic invoicing system. Develop for Escobedo Medina Auditores Asociados in 2019-2020 in a 6 people group team.
