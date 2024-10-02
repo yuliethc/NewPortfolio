@@ -1,15 +1,13 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'The Citizen Journalist'
+cover: '.thecitizenj.png'
+external: 'https://www.fiverr.com/yuliethc/convert-your-figma-adobe-xd-or-sketch-wireframes-to-reactjs'
 tech:
-  - React
+  - ReactJS
   - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Bootstrap
+
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+The client send me the wireframe made in Adobe XD and I develop the UI.
