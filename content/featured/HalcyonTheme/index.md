@@ -2,7 +2,7 @@
 date: '1'
 title: 'Mi factura Perú'
 cover: './mifactura.jpg'
-github: 'Private repo'
+github: 'https://github.com/yuliethc'
 external: 'https://mifacturaperu.com/'
 tech:
   - React JS

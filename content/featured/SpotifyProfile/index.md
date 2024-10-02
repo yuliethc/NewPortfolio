@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'The Citizen Journalist'
-cover: '.thecitizenj.png'
+cover: './thecitizenj.png'
 github: 'https://www.fiverr.com/yuliethc/convert-your-figma-adobe-xd-or-sketch-wireframes-to-reactjs'
 external: 'https://www.fiverr.com/yuliethc/convert-your-figma-adobe-xd-or-sketch-wireframes-to-reactjs'
 tech:
