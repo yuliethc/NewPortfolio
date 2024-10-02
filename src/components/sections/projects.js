@@ -305,6 +305,9 @@ const Projects = () => {
       <button className="more-button" onClick={() => setShowMore(!showMore)}>
         Show {showMore ? 'Less' : 'More'}
       </button>
+      <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
+        view all
+      </Link>
     </StyledProjectsSection>
   );
 };
