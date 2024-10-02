@@ -265,10 +265,10 @@ const Projects = () => {
 
   return (
     <StyledProjectsSection>
-      <h2 ref={revealTitle}>Other Projects and Certificates</h2>
+      <h2 ref={revealTitle}>More creations and achievements</h2>
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-        view the archive
+        view all
       </Link>
 
       <ul className="projects-grid">
