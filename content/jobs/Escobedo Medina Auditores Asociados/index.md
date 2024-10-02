@@ -3,7 +3,7 @@ date: '21-07-2020'
 title: 'Full-Stack Developer'
 company: 'Escobedo Medina Auditores Asociados'
 location: 'Cajamarca, Peru'
-range: 'Febrero 2019 - Julio 2020'
+range: 'February 2019 - July 2020'
 url: 'https://www.mifacturaperu.com/'
 ---
 
