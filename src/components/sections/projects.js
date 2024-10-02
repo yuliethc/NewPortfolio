@@ -266,11 +266,6 @@ const Projects = () => {
   return (
     <StyledProjectsSection>
       <h2 ref={revealTitle}>More creations and achievements</h2>
-
-      <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-        view all
-      </Link>
-
       <ul className="projects-grid">
         {prefersReducedMotion ? (
           <>
@@ -305,9 +300,13 @@ const Projects = () => {
       <button className="more-button" onClick={() => setShowMore(!showMore)}>
         Show {showMore ? 'Less' : 'More'}
       </button>
-      <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-        view all
-      </Link>
+      <div>
+        <br />
+        <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
+          view all
+        </Link>
+      </div>
+
     </StyledProjectsSection>
   );
 };
