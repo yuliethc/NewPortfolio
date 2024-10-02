@@ -2,6 +2,8 @@
 date: '3'
 title: 'Delupar'
 cover: './delupar.png'
+external: 'https://github.com/yuliethc'
+cta: 'https://github.com/yuliethc'
 tech:
   - Ionic-react
   - Subversion
