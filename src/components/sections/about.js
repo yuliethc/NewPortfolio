@@ -140,7 +140,7 @@ const About = () => {
               I also speak Spanish, English and Italian and I can teach everything I learn, I am a qualified professional teacher.
             </p>
 
-            <p>Here's a list of technologies I've worked on:</p>
+            <p>Here's a list of some technologies I've worked on:</p>
           </div>
 
           <ul className="skills-list">
