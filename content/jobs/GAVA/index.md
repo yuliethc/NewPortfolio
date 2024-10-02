@@ -1,6 +1,6 @@
 ---
 date: '01-09-2023'
-title: 'CEO'
+title: 'Creative hobby'
 company: 'Forever Turista'
 location: 'Remote, Worldwide'
 range: '2022 - Present'
