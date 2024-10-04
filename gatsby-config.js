@@ -7,7 +7,7 @@ module.exports = {
       'Yulieth Lubo is a software developer specializing in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://yulieth.com', 
     image: '/og.png',
-    twitterUsername: '@soymonomatica',
+    twitterUsername: '@yuliethlubo',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
