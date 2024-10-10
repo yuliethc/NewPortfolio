@@ -1,6 +1,6 @@
 ---
 date: '2019-07-01'
-title: 'Mi factura Perú'
+title: 'Mi factura Perú, a web-based ERP'
 external: 'https://mifacturaperu.com/'
 tech:
   - React JS
