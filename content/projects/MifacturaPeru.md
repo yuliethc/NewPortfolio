@@ -8,7 +8,7 @@ tech:
   - MySQL
   - Bootstrap
 company: 'Escobedo Medina Auditores Asociados'
-showInProjects: false
+showInProjects: true
 ---
 
 A web-based ERP system integrated to an electronic invoicing system. Develop for Escobedo Medina Auditores Asociados in a 6 people group team.
