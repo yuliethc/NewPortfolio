@@ -135,9 +135,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Yulieth and I enjoy creating things that live on the internet. I'm a software developer with 3+ years of experience, I just love create and make things work. 
+              Hello! My name is Yulieth and I enjoy creating things that live on the internet. I'm a software developer from Venezuela, with 3+ years of experience, I just love create and make things work. 
               
               I also speak Spanish, English and Italian and I can teach everything I learn, I am a qualified professional teacher.
+              I have been in 9 countries and counting, love traveling and descovering the world.
             </p>
 
             <p>Here's a list of some technologies I've worked on:</p>

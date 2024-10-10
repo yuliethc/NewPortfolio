@@ -8,11 +8,11 @@ url: 'https://www.mifacturaperu.com/'
 ---
 
 
-At Escobedo Medina Auditores Asociados, I had the opportunity to contribute my skills and expertise to the development of various projects. During my time there, I acquired solid foundation as a Fullstack Developer, equipped with the ability to tackle complex challenges and deliver innovative software solutions. I played a key role in the following responsibilities:
+At Escobedo Medina Auditores Asociados, I had the opportunity to contribute with my skills and expertise to the development of various projects. During my time there, I acquired solid foundation as a Fullstack Developer, equipped with the ability to tackle complex challenges and deliver innovative software solutions. 
 
-- Web-based ERP Development
+- Web-based ERP Development.
 
-- Desktop App Enhancement
+- Desktop App Enhancement.
 
 - Deep understanding of both front-end and back-end technologies: React JS, Node.js/Express, VB .NET, MySQL, and UI/UX design.
 
