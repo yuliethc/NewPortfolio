@@ -9,7 +9,7 @@ tech:
   - ReactJS
   - Styled Components
   - Bootstrap
-company: ''
+company: 'Freelance'
 showInProjects: false
 ---
 

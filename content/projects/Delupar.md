@@ -1,6 +1,6 @@
 ---
 date: '2020-01-01'
-title: 'Delupar'
+title: 'Delupar - Delivery app'
 github: ''
 external: ''
 ios: ''
@@ -9,7 +9,7 @@ tech:
   - Ionic-react
   - Subversion
   - Material-UI
-company: ''
+company: 'Freelance'
 showInProjects: false
 ---
 
