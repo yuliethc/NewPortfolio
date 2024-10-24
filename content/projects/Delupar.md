@@ -10,7 +10,7 @@ tech:
   - Subversion
   - Material-UI
 company: 'Freelance'
-showInProjects: false
+showInProjects: true
 ---
 
 I worked remotely with Avalon team developing a multi-platform app using Ionic-React and Material UI for on-demand delivery, money transfer, business payments, and commercial services.

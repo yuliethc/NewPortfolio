@@ -6,9 +6,9 @@ external: 'https://www.friendpals.ca/'
 ios: ''
 android: ''
 tech:
-  - 
-company: ''
-showInProjects: true
+  - Svelte
+company: 'Freelance'
+showInProjects: false
 ---
 
-A website for finding friends in Windsor, Canada, with identity verification and a pay-per-meet system.
+I contribute with this website, its for finding friends in Windsor, Canada, with identity verification and a pay-per-meet system.

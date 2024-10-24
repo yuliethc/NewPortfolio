@@ -1,13 +1,11 @@
 ---
 date: '3'
-title: 'Delupar'
-cover: './delupar.png'
-external: 'https://github.com/yuliethc'
-cta: 'https://github.com/yuliethc'
+title: 'Friendpals'
+cover: './friendpals.png'
+external: 'https://www.friendpals.ca/'
+cta: 'https://github.com/madacol/faas'
 tech:
-  - Ionic-react
-  - Subversion
-  - Material-UI
+  - Svelte
 ---
 
-I worked remotely with Avalon team developing a multi-platform app using Ionic-React and Material UI for on-demand delivery, money transfer, business payments, and commercial services.
+I contribute with this website, its for finding friends in Windsor, Canada, with identity verification and a pay-per-meet system.
