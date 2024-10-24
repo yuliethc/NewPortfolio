@@ -1,6 +1,6 @@
 ---
 date: '2019-01-01'
-title: 'English School'
+title: 'English School - Advanced English Certification'
 github: ''
 external: ''
 ios: ''
