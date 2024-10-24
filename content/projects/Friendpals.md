@@ -11,4 +11,4 @@ company: 'Freelance'
 showInProjects: false
 ---
 
-I contribute with this website, its for finding friends in Windsor, Canada, with identity verification and a pay-per-meet system.
+I contribute with the team for a while, mostly for front-end development, the project is develop an app for finding friends in Windsor, Canada, with identity verification and a pay-per-meet system.
