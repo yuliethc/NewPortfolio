@@ -7,7 +7,7 @@ ios: ''
 android: ''
 tech:
   - 
-company: ''
+company: 'Platzi'
 showInProjects: false
 ---
 Platzi Advanced English certification.
