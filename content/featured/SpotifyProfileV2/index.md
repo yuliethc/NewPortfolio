@@ -3,7 +3,7 @@ date: '3'
 title: 'Friendpals'
 cover: './friendpals.png'
 external: 'https://www.friendpals.ca/'
-cta: 'https://github.com/madacol/faas'
+github: 'https://github.com/madacol/faas'
 tech:
   - Svelte
 ---
