@@ -6,7 +6,9 @@ external: ''
 ios: ''
 android: ''
 tech:
-  - 
+  - University Degree
+  - Computer Science
+  - Education
 company: 'La Universidad del Zulia'
 showInProjects: false
 ---

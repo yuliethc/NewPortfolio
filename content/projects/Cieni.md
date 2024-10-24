@@ -6,7 +6,7 @@ external: ''
 ios: ''
 android: ''
 tech:
-  - 
+  - English
 company: 'CIENI Centro Integrado para la Enseñanza de Idiomas'
 showInProjects: false
 ---

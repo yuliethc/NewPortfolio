@@ -6,7 +6,7 @@ external: ''
 ios: ''
 android: ''
 tech:
-  - 
+  - English
 company: 'Platzi'
 showInProjects: false
 ---

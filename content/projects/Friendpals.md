@@ -7,6 +7,7 @@ ios: ''
 android: ''
 tech:
   - Svelte
+  - Javascript
 company: 'Freelance'
 showInProjects: false
 ---
