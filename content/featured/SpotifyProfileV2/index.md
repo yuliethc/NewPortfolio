@@ -2,9 +2,9 @@
 date: '3'
 title: 'Friendpals'
 cover: './friendpals.png'
-external: 'https://www.friendpals.ca/'
-cta: 'https://github.com/madacol/faas'
 github: 'https://github.com/madacol/faas'
+external: 'https://www.friendpals.ca/'
+cta: 'https://instagram.com/friendpalsontario'
 tech:
   - Ionic-react
   - Subversion
