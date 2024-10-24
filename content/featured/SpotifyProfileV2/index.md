@@ -2,8 +2,8 @@
 date: '3'
 title: 'Friendpals'
 cover: './friendpals.png'
-external: 'https://www.friendpals.ca/'
 github: 'https://github.com/madacol/faas'
+external: 'https://www.friendpals.ca/'
 tech:
   - Svelte
 ---
