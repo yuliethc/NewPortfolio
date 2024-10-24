@@ -11,4 +11,4 @@ tech:
 
 ---
 
-The client send me the wireframe made in Adobe XD and I develop the UI.
+The client sent me the wireframes made in Adobe XD and I developed the UI.
