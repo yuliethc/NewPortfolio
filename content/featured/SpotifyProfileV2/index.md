@@ -2,10 +2,13 @@
 date: '3'
 title: 'Friendpals'
 cover: './friendpals.png'
-github: 'https://github.com/madacol/faas'
 external: 'https://www.friendpals.ca/'
+cta: 'https://github.com/madacol/faas'
+github: 'https://github.com/madacol/faas'
 tech:
-  - Svelte
+  - Ionic-react
+  - Subversion
+  - Material-UI
 ---
 
-I contribute with this website, its for finding friends in Windsor, Canada, with identity verification and a pay-per-meet system.
+I worked remotely with Avalon team developing a multi-platform app using Ionic-React and Material UI for on-demand delivery, money transfer, business payments, and commercial services.
