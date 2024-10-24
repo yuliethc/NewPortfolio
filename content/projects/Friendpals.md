@@ -8,7 +8,7 @@ android: ''
 tech:
   - 
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 A website for finding friends in Windsor, Canada, with identity verification and a pay-per-meet system.
