@@ -1,6 +1,6 @@
 ---
 date: '2023-01-01'
-title: 'Friendpals'
+title: 'Friendpals - Front-end development contribution'
 github: 'https://github.com/madacol/faas'
 external: 'https://www.friendpals.ca/'
 ios: ''
