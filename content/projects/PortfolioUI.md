@@ -9,7 +9,7 @@ tech:
   - Adobe XD
   - Adobe Photoshop
 company: 'Freelance'
-showInProjects: true
+showInProjects: false
 ---
 
 

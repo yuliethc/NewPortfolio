@@ -9,7 +9,7 @@ tech:
   - React JS
   - Bootstrap
 company: 'Freelance'
-showInProjects: true
+showInProjects: false
 ---
 
 
