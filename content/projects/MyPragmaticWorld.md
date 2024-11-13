@@ -6,6 +6,8 @@ external: ''
 ios: ''
 android: ''
 tech:
+  - Writing
+  - English
   - Canva
   - Adobe Photoshop
 company: 'Freelance'
