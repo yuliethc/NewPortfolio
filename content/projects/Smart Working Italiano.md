@@ -6,7 +6,7 @@ external: ''
 ios: ''
 android: ''
 tech:
-  - 
+  - Smart Working
 company: 'Teleskill Italia'
 showInProjects: false
 ---
