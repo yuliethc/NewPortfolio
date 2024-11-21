@@ -1,12 +1,12 @@
 ---
 date: '2024-01-01'
-title: 'Cybersecurity Awareness: Cybersecurity Terminology'
+title: 'Adobe Firefly Essential Training'
 github: ''
 external: ''
 ios: ''
 android: ''
 tech:
-  - Cybersecurity
+  - Adobe Firefly
 company: 'LinkedIn'
 showInProjects: false
 ---

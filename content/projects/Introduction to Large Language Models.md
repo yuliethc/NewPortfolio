@@ -1,12 +1,12 @@
 ---
 date: '2024-01-01'
-title: 'Cybersecurity Awareness: Cybersecurity Terminology'
+title: 'Introduction to Large Language Models'
 github: ''
 external: ''
 ios: ''
 android: ''
 tech:
-  - Cybersecurity
+  - Large Language Models (LLM)
 company: 'LinkedIn'
 showInProjects: false
 ---

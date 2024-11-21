@@ -1,12 +1,13 @@
 ---
 date: '2024-01-01'
-title: 'Cybersecurity Awareness: Cybersecurity Terminology'
+title: 'Responsible AI: Principles and Practical Applications'
 github: ''
 external: ''
 ios: ''
 android: ''
 tech:
-  - Cybersecurity
+  - Business Process Automation
+  - Responsible AI
 company: 'LinkedIn'
 showInProjects: false
 ---

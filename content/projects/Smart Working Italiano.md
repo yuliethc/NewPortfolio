@@ -1,13 +1,13 @@
 ---
 date: '2024-01-01'
-title: 'Cybersecurity Awareness: Cybersecurity Terminology'
+title: 'Smart Working Italiano'
 github: ''
 external: ''
 ios: ''
 android: ''
 tech:
-  - Cybersecurity
-company: 'LinkedIn'
+  - 
+company: 'Teleskill Italia'
 showInProjects: false
 ---
 

@@ -1,12 +1,12 @@
 ---
 date: '2024-01-01'
-title: 'Cybersecurity Awareness: Cybersecurity Terminology'
+title: 'Generative AI: The Evolution of Thoughtful Online Search'
 github: ''
 external: ''
 ios: ''
 android: ''
 tech:
-  - Cybersecurity
+  - Search Engine Technology
 company: 'LinkedIn'
 showInProjects: false
 ---
