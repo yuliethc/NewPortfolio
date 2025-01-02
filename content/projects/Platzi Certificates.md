@@ -6,7 +6,10 @@ external: 'https://platzi.com/p/luboyulieth/'
 ios: ''
 android: ''
 tech:
-  - Python
+  - Design
+  - Development
+  - English
+  - Data Science
 company: 'Platzi'
 showInProjects: false
 ---
