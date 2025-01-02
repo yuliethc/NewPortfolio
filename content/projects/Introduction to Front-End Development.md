@@ -7,7 +7,7 @@ ios: ''
 android: ''
 tech:
   - Front-End
-company: ''
+company: 'Meta'
 showInProjects: false
 ---
 
